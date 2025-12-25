@@ -59,6 +59,11 @@ h1{
         left: -60px;
     }
 }
+@media (min-width:360px){
+    #game{
+        width: 300px;
+    }
+}
 
 #bird{
     width: 20px;
